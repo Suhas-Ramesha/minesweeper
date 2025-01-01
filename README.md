@@ -3,7 +3,7 @@
 A classic Minesweeper game developed with HTML, CSS, and JavaScript. This interactive game is designed to challenge players’ logic and concentration as they uncover cells while avoiding hidden mines. The game offers a smooth user experience with timers and scores for added excitement.
 
 ## **PREVIEW:**  
-Visit the demo here: [[Minesweeper Game Demo](https://vercel.com/suhas-projects-49474e5e/minesweeper/8oHDbyDjodeark91kzSfMbzxSyBj)](#)
+Visit the demo here: [[Minesweeper Game Demo](https://minesweeper-fz8fa7phh-suhas-projects-49474e5e.vercel.app/)]
 
 ## 🚀 **Features**  
 - **Responsive Design:** Optimized for desktops, tablets, and mobile devices.  
